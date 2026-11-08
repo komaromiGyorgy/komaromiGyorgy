@@ -1,8 +1,6 @@
 # György Komáromi
 
-Lead front-end developer, Vue 3, Nuxt and TypeScript, six years. Based in Cluj-Napoca, Romania, working remotely (UTC+2).
-
-I am looking for a fully remote senior or lead front-end role at a product company, where I can own front-end architecture and help a team ship faster.
+Senior full-stack developer in Cluj-Napoca, Romania. I build Vue 3, Nuxt and TypeScript front-ends and the Node.js APIs behind them.
 
 ## Stack
 
