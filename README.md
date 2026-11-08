@@ -1,10 +1,10 @@
 # György Komáromi
 
-Senior full-stack developer in Cluj-Napoca, Romania. I build Vue 3, Nuxt and TypeScript front-ends and the Node.js APIs behind them.
+Senior full-stack developer in Cluj-Napoca, Romania. I build Vue 3, Nuxt, React and TypeScript front-ends and the Node.js APIs behind them.
 
 ## Stack
 
-- **Front-end:** Vue 3, TypeScript, Nuxt 4 (layers, Nitro, static generation), Quasar, Pinia, Vite, Tailwind CSS, GSAP, web components
+- **Front-end:** Vue 3, React, TypeScript, Nuxt 4 (layers, Nitro, static generation), Quasar, Pinia, Vite, Tailwind CSS, GSAP, web components
 - **Back-end:** Node.js, Express, Nitro, Laravel, DynamoDB, SQL
 - **Testing:** Vitest, Playwright (end-to-end and visual regression), Cypress
 - **Delivery:** AWS (S3, CloudFront, ECS), GCP, Docker, GitHub Actions
